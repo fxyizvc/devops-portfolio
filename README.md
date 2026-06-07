@@ -36,3 +36,17 @@ Developer
 - CI/CD Automation
 - Git Version Control
 - Troubleshooting
+
+## Screenshots
+
+### Live Website
+
+![Website](images/website.png)
+
+### Docker Container Running
+
+![Docker](images/docker-running.png)
+
+### GitHub Actions CI/CD
+
+![GitHub Actions](images/github-actions.png)
